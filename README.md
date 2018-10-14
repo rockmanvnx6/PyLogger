@@ -10,5 +10,5 @@ python pylogger.pyw
 ## Features:
 
 - Save keyboard log to keylog.log (finished)
-- Send to log content to email (working on)
+- Send log content to email (working on)
 
